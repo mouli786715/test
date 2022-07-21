@@ -1,4 +1,5 @@
 # test
+/*
 this is myfirsttestcode
 hai ima mouli
 python
@@ -7,4 +8,13 @@ html
 javscript
 sql
 Reactjs
-Github
+Github*/
+<!doctype html>
+<html>
+<head>
+<title>GIT HUB<//title>
+<body>
+<p>Git Hub edit and how to revisison for each type of proj</p>
+</body>
+</head>
+</html>
